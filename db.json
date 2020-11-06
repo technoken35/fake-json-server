@@ -25,5 +25,42 @@
       "place": "Winn Supply",
       "total": 545.17
     }
+  ],
+
+  "activeJobs": [
+    {
+      "customer": "cross construction",
+      "jobs": [
+        {
+          "jobName": "Crumbl Cookies",
+          "completion": 75
+        },
+        {
+          "jobName": "Clinic",
+          "completion": 50
+        },
+        {
+          "jobName": "EOS fitness",
+          "completion": 50
+        }
+      ]
+    },
+    {
+      "customer": "Henry construction",
+      "jobs": [
+        {
+          "jobName": "Area 15",
+          "completion": 75
+        },
+        {
+          "jobName": "Essence Dispensary",
+          "completion": 50
+        },
+        {
+          "jobName": "Arbys",
+          "completion": 50
+        }
+      ]
+    }
   ]
 }
