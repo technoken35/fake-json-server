@@ -1,4 +1,18 @@
 {
+  "users": [
+    {
+      "ID": 1,
+      "UserName": "sample string 2",
+      "Password": "sample string 3"
+    },
+    {
+      "ID": 2,
+      "firstName": "Kendall",
+      "lastName": "Hayes",
+      "UserName": "sample string 2",
+      "Password": "sample string 3"
+    }
+  ],
   "transactions": [
     {
       "jobName": "Area 15",
