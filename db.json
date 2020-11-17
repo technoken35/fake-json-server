@@ -2,42 +2,103 @@
   "users": [
     {
       "ID": 1,
-      "UserName": "sample string 2",
-      "Password": "sample string 3"
+      "firstName": "Johnny",
+      "lastName": "Appleseed",
+      "UserName": "johnnyappleseed@gmail.com",
+      "Password": "You got to love apples",
+      "transactions": [
+        {
+          "jobName": "Area 15",
+          "place": "Winn Supply",
+          "total": 118.98
+        },
+        {
+          "jobName": "Malibu Shegerian Residence",
+          "place": "Winn Supply",
+          "total": 20
+        },
+        {
+          "jobName": "Brentwood Lawyer",
+          "place": "Home Depot",
+          "total": 39.3
+        },
+        {
+          "jobName": "Clinic",
+          "place": "Winn Supply",
+          "total": 160.76
+        },
+        {
+          "jobName": "Grow House",
+          "place": "Winn Supply",
+          "total": 545.16
+        }
+      ]
     },
     {
       "ID": 2,
       "firstName": "Kendall",
       "lastName": "Hayes",
       "UserName": "sample string 2",
-      "Password": "sample string 3"
+      "Password": "sample string 3",
+      "transactions": [
+        {
+          "jobName": "Area 15",
+          "place": "Winn Supply",
+          "total": 1215.98
+        },
+        {
+          "jobName": "Area 15",
+          "place": "Winn Supply",
+          "total": 1899.67
+        },
+        {
+          "jobName": "Brentwood Lawyer",
+          "place": "Home Depot",
+          "total": 39.36
+        },
+        {
+          "jobName": "Clinic",
+          "place": "Winn Supply",
+          "total": 160.76
+        },
+        {
+          "jobName": "Area 15",
+          "place": "Winn Supply",
+          "total": 545.17
+        }
+      ]
     }
   ],
   "transactions": [
     {
       "jobName": "Area 15",
       "place": "Winn Supply",
-      "total": 115.98
+      "total": 115.98,
+      "user": "Mark"
     },
     {
       "jobName": "Area 15",
       "place": "Winn Supply",
-      "total": 899.67
+      "total": 899.67,
+      "user": "Henry"
     },
     {
       "jobName": "Brentwood Lawyer",
       "place": "Home Depot",
-      "total": 31.35
+      "total": 31.35,
+      "user": "Joy"
     },
     {
       "jobName": "Clinic",
       "place": "Winn Supply",
-      "total": 120.76
+      "total": 120.76,
+      "user": "Maiya"
     },
     {
       "jobName": "Area 15",
       "place": "Winn Supply",
-      "total": 545.17
+      "total": 545.17,
+      "user": "Jerome"
     }
   ],
 
